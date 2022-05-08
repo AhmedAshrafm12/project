@@ -1,5 +1,5 @@
 # project
-for test
+frontend template
 
 
 ## project notes
